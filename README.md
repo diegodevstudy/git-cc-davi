@@ -24,9 +24,9 @@ Nosso projeto apresenta como fazer um lanche artesanal
 
 
 
+primeiro você coloca o hamburguer na chapa
+
+
+
 Projeto desenvolvido para praticar Git e GitHub.
-
-
-
-
 
