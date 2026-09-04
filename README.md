@@ -1,38 +1,24 @@
-Projeto Git e GitHub
-
-
-
-Integrantes
-
-
-
-&#x20;Josney Henrique
-
-&#x20;Diego Augusto
-
-&#x20;Yago Henrique
-
-&#x20;João Casaroto
-
-
-
-&#x20;Sobre o projeto
-
-
-
-Nosso projeto apresenta como fazer um lanche artesanal
-
-
-
-primeiro você coloca o hamburguer na chapa
-
-
-
-agora você faz outras coisas
-
-Primeira palavra do Yago
-
-Segunda palavra do Yago
+# Projeto Git e GitHub
 
 Projeto desenvolvido para praticar Git e GitHub.
+
+## Integrantes
+- Josney Henrique
+- Diego Augusto
+- Yago Henrique
+- João Pedro Casaroto
+
+## Sobre o projeto
+Nosso projeto apresenta como fazer um lanche artesanal.
+
+## Ingredientes
+- Pão
+- Hambúrguer
+- Queijo
+- Molhos
+
+## Modo de preparo
+1. Coloque o hambúrguer na chapa
+2. Deixe grelhar até dourar dos dois lados
+3. Monte o lanche com pão, queijo e molhos
 
