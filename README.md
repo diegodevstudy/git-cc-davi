@@ -2,6 +2,9 @@
 
 Projeto desenvolvido para praticar Git e GitHub.
 
+## Sobre a atividade
+Atividade avaliativa da disciplina de Design Profissional, com foco no uso do Git e GitHub em equipe.
+
 ## Integrantes
 - Josney Henrique
 - Diego Augusto
@@ -18,7 +21,10 @@ Nosso projeto apresenta como fazer um lanche artesanal.
 - Molhos
 
 ## Modo de preparo
-1. Coloque o hambúrguer na chapa
-2. Deixe grelhar até dourar dos dois lados
-3. Monte o lanche com pão, queijo e molhos
-
+1. Tempere a carne com sal e pimenta a gosto
+2. Aqueça a chapa ou frigideira em fogo médio-alto
+3. Coloque o hambúrguer e deixe grelhar por cerca de 4 minutos de cada lado
+4. Nos últimos minutos, adicione o queijo por cima para derreter
+5. Toste o pão levemente na chapa
+6. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
+7. Feche o lanche e sirva quente
