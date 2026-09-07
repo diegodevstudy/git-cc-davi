@@ -30,3 +30,4 @@ Nosso projeto apresenta como fazer um lanche artesanal.
 7.Prepare a embalagem para empacotaar o lanche
 8. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
 9. Feche o lanche e sirva quente
+10. Depois lave os pratos
