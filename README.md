@@ -12,8 +12,8 @@ Atividade avaliativa da disciplina de Design Profissional, com foco no uso do Gi
 - João Pedro Casaroto
 
 ## Sobre o projeto
-Nosso projeto apresenta como fazer um lanche artesanal da melhor forma.
-
+## Sobre o projeto
+Nosso projeto apresenta como fazer uma página na web para ensinar a preparar um lanche artesanal da melhor forma.
 ## Ingredientes
 - Pão
 - Hambúrguer
