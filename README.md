@@ -12,8 +12,8 @@ Atividade avaliativa da disciplina de Design Profissional, com foco no uso do Gi
 - João Pedro Casaroto
 
 ## Sobre o projeto
-Nosso projeto apresenta como fazer um lanche artesanal.
-
+## Sobre o projeto
+Nosso projeto apresenta como fazer uma página na web para ensinar a preparar um lanche artesanal da melhor forma.
 ## Ingredientes
 - Pão
 - Hambúrguer
@@ -30,3 +30,4 @@ Nosso projeto apresenta como fazer um lanche artesanal.
 7. Prepare a embalagem para empacotaar o lanche
 8. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
 9. Feche o lanche e sirva quente
+10. Depois lave os pratos
