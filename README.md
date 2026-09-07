@@ -27,6 +27,6 @@ Nosso projeto apresenta como fazer um lanche artesanal.
 4. Nos últimos minutos, adicione o queijo por cima para derreter
 5. Toste o pão levemente na chapa
 6.Corte e lave a salada
-7.Prepare a embalagem para empacotaar o lanche
+7.Prepare a embalagem para empacotar o lanche
 8. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
 9. Feche o lanche e sirva quente
