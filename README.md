@@ -30,3 +30,8 @@ Nosso projeto apresenta como fazer um lanche artesanal.
 7.Prepare a embalagem para empacotaar o lanche
 8. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
 9. Feche o lanche e sirva quente
+
+## Dicas
+- Use queijo cheddar ou muçarela para derreter melhor
+- Prefira carne no ponto médio para ficar suculenta
+- Pão brioche combina bem com o sabor do hambúrguer
