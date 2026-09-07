@@ -30,4 +30,11 @@ Nosso projeto apresenta como fazer uma página na web para ensinar a preparar um
 7. Prepare a embalagem para empacotaar o lanche
 8. Monte o lanche: pão, hambúrguer com queijo, molhos e complementos (alface, tomate, cebola)
 9. Feche o lanche e sirva quente
+feature/Yago
+Alteração feita por Yago
+Alteração feita por Yago
+Alteração feita por Yago
+Mais uma alteração de Yago
+
 10. Depois lave os pratos
+
